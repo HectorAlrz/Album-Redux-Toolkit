@@ -1,3 +1,8 @@
+/*
+We use the @reduxjs/toolkit/query/REACT because gives a version of createAPI
+that does create custom hooks, while, @reduxjs/toolkit/QUERY does not
+create custom hooks
+*/
 import { createApi, fetchBaseQuery } from "@reduxjs/toolkit/query/react";
 import { faker } from "@faker-js/faker";
 
