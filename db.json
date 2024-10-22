@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "name": "Floyd Koelpin",
+      "id": 1
+    },
+    {
+      "name": "Kelley Gleichner",
+      "id": 2
+    },
+    {
+      "name": "Mitchell Mohr",
+      "id": 3
+    },
+    {
+      "name": "Nina Raynor",
+      "id": 4
+    }
+  ],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 1
+    },
+    {
+      "userId": 4,
+      "title": "Bespoke Plastic Computer",
+      "id": 12
+    },
+    {
+      "userId": 4,
+      "title": "Ergonomic Plastic Table",
+      "id": 13
+    },
+    {
+      "userId": 1,
+      "title": "Bespoke Metal Salad",
+      "id": 14
+    }
+  ],
+  "photos": []
+}
