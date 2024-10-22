@@ -47,7 +47,23 @@
       "userId": 1,
       "title": "Small Wooden Keyboard",
       "id": 17
+    },
+    {
+      "userId": 1,
+      "title": "Intelligent Metal Sausages",
+      "id": 18
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3800356809080832",
+      "id": 1
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6458117365694464",
+      "id": 4
+    }
+  ]
 }

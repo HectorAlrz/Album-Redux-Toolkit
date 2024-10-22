@@ -3,7 +3,7 @@ import { useRemoveAlbumMutation } from "../store";
 import { GoTrashcan } from "react-icons/go";
 import Button from "./Button";
 import ExpandablePanel from "./ExpandablePanel";
-import PhotosList from "./PhotosList";
+import PhotosList from "./PhotoList";
 
 function AlbumsListItem({ album }) {
   const [removeAlbum, results] = useRemoveAlbumMutation();
