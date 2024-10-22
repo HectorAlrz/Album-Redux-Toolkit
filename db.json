@@ -34,9 +34,19 @@
       "id": 13
     },
     {
+      "userId": 2,
+      "title": "Practical Rubber Computer",
+      "id": 15
+    },
+    {
       "userId": 1,
-      "title": "Bespoke Metal Salad",
-      "id": 14
+      "title": "Tasty Concrete Computer",
+      "id": 16
+    },
+    {
+      "userId": 1,
+      "title": "Small Wooden Keyboard",
+      "id": 17
     }
   ],
   "photos": []
